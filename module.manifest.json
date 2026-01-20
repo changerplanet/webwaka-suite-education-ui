@@ -1,0 +1,14 @@
+{
+  "moduleId": "webwaka_suite_education_ui",
+  "class": "suite",
+  "suiteType": "ui",
+  "version": "0.1.0",
+  "capabilities": [],
+  "dependencies": [],
+  "metadata": {
+    "repository": "https://github.com/changerplanet/webwaka-suite-education-ui",
+    "suite": "education",
+    "created": "2026-01-20",
+    "status": "substrate"
+  }
+}
